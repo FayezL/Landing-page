@@ -2,7 +2,7 @@
 
 ---
 
-this a simple Landing Page Project
+this a simple Landing Page Project one of Udacity Projects Front-end professional coruse
 
 ## language used:
 
